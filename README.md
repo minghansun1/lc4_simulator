@@ -3,3 +3,5 @@
 This is my final project for my CIS 2400 Computer Systems class.
 
 This project implements all 36 operations of the LC-4 operating system and includes a binary parser to translate machine language into assembly instructions and store instructions in the correct location on the heap.
+
+It can also run the code instructions on a simulated operating system.
