@@ -1,0 +1,3 @@
+/Users/mingh/College/2023-2024 Spring/CIS 2400/project-lc4-simulator/cmake-build-debug/CMakeFiles/project_lc4_simulator.dir
+/Users/mingh/College/2023-2024 Spring/CIS 2400/project-lc4-simulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mingh/College/2023-2024 Spring/CIS 2400/project-lc4-simulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v5
+43	76	1714351131415779373	project_lc4_simulator	a87c76fec0fe2a6d
+1	52	1712680362221968041	CMakeFiles/project_lc4_simulator.dir/loader.c.o	7eebe536ac86112
+0	274	1712622620530044540	CMakeFiles/project_lc4_simulator.dir/main.cpp.o	affd25754b3bfca1
+0	40	1714521011642140707	build.ninja	923dfa475fb08df7
+1	43	1714351131381693207	CMakeFiles/project_lc4_simulator.dir/trace.c.o	12164df01e5128c0
+1	66	1713496832431726332	CMakeFiles/project_lc4_simulator.dir/LC4.c.o	af158161948a2058
